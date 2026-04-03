@@ -4,7 +4,7 @@ This repository reproduces the main ideas of the paper by Carrasquilla & Melko (
 
 
 <p align="center">
-  <img src="nn_ising.png" width="450">
+  <img src="nn_ising.png" width="650">
 </p>
 
 
