@@ -1,6 +1,12 @@
-# Machine Learning the 2D Ising Model
+# Machine Learning of the 2D Ising Model
 
 This repository reproduces the main ideas of the paper by Carrasquilla & Melko (2017), using a simple neural network to distinguish ordered and disordered phases of the 2D Ising model.
+
+
+<p align="center">
+  <img src="nn_ising.png" width="450">
+</p>
+
 
 The workflow is:
 
