@@ -147,7 +147,7 @@ gfortran -O3 ising_sampler.f90 -o ising_sampler
 ./ising_sampler
 ```
 
-### 2. Train on one dataset
+### 2. Train on one dataset (jupyter notebook)
 
 ```python
 main()
